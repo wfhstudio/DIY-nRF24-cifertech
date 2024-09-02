@@ -11,6 +11,7 @@ NRF#2
 NRF#3
  CE  15
  CSN_3 2
+
 NRF#1,2,3 (combine)
  SCK 18
  MOSI 23
