@@ -1,6 +1,9 @@
 # DIY-nRF24-cifertech
 https://github.com/cifertech/nrfbox
 
+OLED
+SDA=22, SCL=21
+
 NRF24 Wiring
 NRF#1
  CE  5
