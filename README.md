@@ -1,8 +1,11 @@
 # DIY-nRF24-cifertech
 https://github.com/cifertech/nrfbox
 
+Make sure you install library RF24-Master.zip in this github.
+
 OLED
-SDA=22, SCL=21
+SDA=22 
+SCL=21
 
 NRF24 Wiring
 NRF#1
